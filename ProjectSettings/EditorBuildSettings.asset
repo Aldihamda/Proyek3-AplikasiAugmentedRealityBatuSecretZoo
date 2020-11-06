@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/scene_guide.unity
     guid: b12fb79f408d19941aa492d920d4586a
+  - enabled: 1
+    path: Assets/Scenes/scene_listbinatang.unity
+    guid: a3d77a0e9d5484141acbce68faf68a72
   m_configObjects: {}
