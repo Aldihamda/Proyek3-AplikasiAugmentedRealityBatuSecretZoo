@@ -21,6 +21,10 @@ public class menu : MonoBehaviour
     {
         Application.LoadLevel("scene_guide");
     }
+    public void GoToJaguarScene()
+    {
+        Application.LoadLevel("scene_jaguar");
+    }
     public void exitaplikasi()
     {
         Application.Quit();

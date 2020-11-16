@@ -18,9 +18,21 @@ EditorBuildSettings:
     path: Assets/Scenes/ARCameraMain.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/scene_guide.unity
-    guid: b12fb79f408d19941aa492d920d4586a
-  - enabled: 1
     path: Assets/Scenes/scene_listbinatang.unity
     guid: a3d77a0e9d5484141acbce68faf68a72
+  - enabled: 1
+    path: Assets/Scenes/scene_guide.unity
+    guid: 87ac4d04c97923049b52360fc6a012dd
+  - enabled: 1
+    path: Assets/Scenes/scene_jaguar.unity
+    guid: b12fb79f408d19941aa492d920d4586a
+  - enabled: 1
+    path: Assets/Scenes/scene_gajah.unity
+    guid: f9f8254f3ac58914baf4b1e31c536520
+  - enabled: 1
+    path: Assets/Scenes/scene_singa.unity
+    guid: 67b79c49464ad8647849ee1a7db18798
+  - enabled: 1
+    path: Assets/Scenes/scene_komodo.unity
+    guid: 125a5d767b057b34195790b65830d5ef
   m_configObjects: {}
