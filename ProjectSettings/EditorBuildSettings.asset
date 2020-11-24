@@ -35,4 +35,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/scene_komodo.unity
     guid: 125a5d767b057b34195790b65830d5ef
+  - enabled: 1
+    path: Assets/Scenes/scene_bison.unity
+    guid: 7ca4b040b69c97c4db1d2cd8fb364dea
+  - enabled: 1
+    path: Assets/Scenes/scene_hippo.unity
+    guid: 1be3c07b7dc42424bbc747675b2eb4c3
+  - enabled: 1
+    path: Assets/Scenes/scene_culasatu.unity
+    guid: 9d496ed37e37c9145ac09bd64bb5e07a
+  - enabled: 1
+    path: Assets/Scenes/scene_leopard.unity
+    guid: fec86a8db8e18ee42a0bf0b889dc0679
   m_configObjects: {}
