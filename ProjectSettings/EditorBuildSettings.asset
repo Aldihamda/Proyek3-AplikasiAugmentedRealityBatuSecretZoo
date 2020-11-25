@@ -47,4 +47,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/scene_leopard.unity
     guid: fec86a8db8e18ee42a0bf0b889dc0679
+  - enabled: 1
+    path: Assets/Scenes/scene_sunbear.unity
+    guid: 427953dcaf4184d45a5c355977447f11
+  - enabled: 1
+    path: Assets/Scenes/scene_shark.unity
+    guid: 71785dfcac8bcec4dac037d42b2124a3
+  - enabled: 1
+    path: Assets/Scenes/scene_gorilla.unity
+    guid: 2f247c93cdb20f449a6da768089d3c1c
   m_configObjects: {}
